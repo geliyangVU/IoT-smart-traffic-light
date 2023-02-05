@@ -3,6 +3,7 @@
 Repository for documentations of IoT final project
 
 # Smart traffic light systems - final project set up tutorial
+Other iot setup tutorials can be found: https://github.com/geliyangVU/VU_FALL22_IOT_CLASS
 
 # Domain of application: Smart city
 
