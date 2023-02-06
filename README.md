@@ -33,6 +33,10 @@ In this tutorial we will setup and test a smart traffic light systems.
 
 ![Flow chart for iot final project (1)](https://user-images.githubusercontent.com/97559266/206766726-c0631c2d-4989-44ec-af74-d7007cf4015d.png)
 
+
+### ER diagram
+![erdiagram](https://user-images.githubusercontent.com/97559266/217095038-aacb2de3-b2cb-4182-b653-1270d7d4551b.png)
+
 ### Circuit Diagram for ultrasonic sensor and LCD display
 
 reference [Freenove tutorial]
